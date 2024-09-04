@@ -1,4 +1,4 @@
-# UCLA CS162 Course Project Guideline
+# FACT or Flawed
 
 # Table of Contents
 
