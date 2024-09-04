@@ -1,4 +1,4 @@
-# FACT or Flawed
+# Fact or Flawed
 
 # Table of Contents
 
